@@ -8,7 +8,7 @@ I am a young passionate about computers and who like to discover new things. I h
 
 - 🔭 I’m currently working on on frabot and realya. 
 - 🌱 I’m currently learning rust, ruby. 
-- 📫 How to reach me: Pressyware#0001 or BLABLABLA 
+- 📫 How to reach me: Pressyware#0001 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pressynou)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/pressyware)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.realya.ch)  
