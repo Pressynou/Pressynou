@@ -6,7 +6,7 @@ I am a young passionate about computers and who like to discover new things. I h
 ### Skills: PY, Soon other skill?
 
 
-- 🔭 I’m currently working on on frabot and realya. 
+- 🔭 I’m currently working on on frabot and ![test](https://github.com/anuraghazra). 
 - 🌱 I’m currently learning rust, ruby. 
 - 📫 How to reach me: Pressyware#0001 
 
