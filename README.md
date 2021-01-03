@@ -3,7 +3,7 @@
 
 I am a young passionate about computers and who like to discover new things. I have been learning to quote for 6 months now. I mainly use python for the moment even if I will turn to other languages ​​such as ruby or even rust. I use arch linux daily and from time to time windows.
 
-### Skills: PY, Soon other skill?
+### Skills: PY
 
 
 - 🔭 I’m currently working on on ![Frabot](https://pressynou.github.io/Frabot/) and ![Realya](https://www.realya.ch). 
