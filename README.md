@@ -13,7 +13,7 @@ I am a young passionate about computers and who like to discover new things. I h
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pressynou)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/pressyware)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.realya.ch)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pressynou)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pressynou)]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pressynou&show_icons=true)  
 
