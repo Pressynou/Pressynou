@@ -30,6 +30,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
+          plugin_habits: yes
           plugin_habits_charts: yes
           plugin_pagespeed: yes
           plugin_pagespeed_url: https://pressynou.github.io
