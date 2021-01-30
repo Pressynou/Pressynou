@@ -1072,8 +1072,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">4</span>
-              <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">2</span>
+              <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               19
             </div>
           
@@ -1148,8 +1148,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">12</span>
-                <div class="bar" style="height: 11.11111111111111px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">10</span>
+                <div class="bar" style="height: 9.25925925925926px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Sat
               </div>
             
@@ -1163,7 +1163,7 @@
             
               <div class="entry">
                 <span class="name">Python</span>
-                <div class="bar" style="width: 78.864%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <div class="bar" style="width: 78.872%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 <span class="value">99%</span>
               </div>
             
@@ -2532,7 +2532,7 @@
       
         <footer>
           <span>These metrics include private contributions, timezone Europe/Paris</span>
-          <span>Last updated Sat, 30 Jan 2021 17:43:54 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Sat, 30 Jan 2021 18:30:07 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
