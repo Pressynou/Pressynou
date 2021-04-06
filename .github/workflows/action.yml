@@ -28,7 +28,7 @@ jobs:
           plugin_isocalendar_duration: half-year
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
-          plugin_pagespeed_url: https://presstnou.github.io
+          plugin_pagespeed_url: https://pressynou.github.io
           plugin_stars: yes
           plugin_stars_limit: 4
 
