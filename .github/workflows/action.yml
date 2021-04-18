@@ -28,7 +28,7 @@ jobs:
           plugin_isocalendar_duration: half-year
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
-          plugin_pagespeed_url: https://pressynou.ml/
+          plugin_pagespeed_url: https://pressynou.ch/
           plugin_stars: yes
           plugin_stars_limit: 4
 
